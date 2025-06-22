@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hemant.quick_notes.app-mergeReleaseResources-44:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vasul\\.gradle\\caches\\8.14.1\\transforms\\59e5aca2668ce94a72a2ae8e71b4d417\\transformed\\appcompat-1.1.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

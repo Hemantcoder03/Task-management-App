@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+drawable launch_background
+drawable playstore_app_icon
+drawable todo_app_icon
+mipmap ic_launcher
+mipmap playstore_app_icon
+style LaunchTheme
+style NormalTheme
